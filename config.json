@@ -1,3 +1,5 @@
 {
-  "prefix": "-"
+  "prefix": "-",
+  "timeout": 5,
+  "messageTimeout": 1
 }
