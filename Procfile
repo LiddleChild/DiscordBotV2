@@ -1,0 +1,1 @@
+deploy: node src/app.js
